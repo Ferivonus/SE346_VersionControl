@@ -10,4 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Fahrettin Basturk, 18243610023, ISE\n"); // have a nice days ✧･ﾟ: *✧･ﾟ:* 　 *:･ﾟ✧*:･ﾟ✧ :3
+
 }
